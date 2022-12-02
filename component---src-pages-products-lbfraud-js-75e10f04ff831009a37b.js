@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[539],{979:function(t,e,a){a.r(e);var s=a(7294),r=a(8124),u=a(7782);e.default=()=>{const{t:t}=(0,u.useTranslation)();return s.createElement(r.Z,null)}}}]);
-//# sourceMappingURL=component---src-pages-products-lbfraud-js-75e10f04ff831009a37b.js.map
