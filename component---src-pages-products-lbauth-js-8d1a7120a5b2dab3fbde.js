@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[994],{3217:function(e,t,l){l.r(t);var a=l(7294),n=l(5592),r=l(7782);t.default=()=>{const{t:e}=(0,r.useTranslation)();return a.createElement(n.Z,null,a.createElement("h1",null,e("title")),a.createElement("p",null,e("description")))}}}]);
-//# sourceMappingURL=component---src-pages-products-lbauth-js-8d1a7120a5b2dab3fbde.js.map
